@@ -1,4 +1,4 @@
-# Open Diplomatic Editions: archive
+# Open Diplomatic Editions: archival repository
 
 The master branch of this repository maintains the current release of peer-reviewed editions published
 by Open Diplomatic Editions.
